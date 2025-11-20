@@ -115,4 +115,4 @@ public class CountryInfo
 
 ## Screenshot
 
-![Get SelectedIndex in SfListView](SfListView_C#/Image/get_selectedindex_listview.png)
+![Get SelectedIndex in SfListView](Output/get_selectedindex_listview.png)
