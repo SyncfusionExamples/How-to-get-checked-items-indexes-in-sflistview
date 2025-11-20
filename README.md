@@ -112,3 +112,7 @@ public class CountryInfo
     public string Continent { get; set; }
 }
 ```
+
+## Screenshot
+
+![Get SelectedIndex in SfListView](Output/get_selectedindex_listview.png)
